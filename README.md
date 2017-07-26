@@ -20,3 +20,11 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/yuttana76/ScoreKeep.git
 git push -u origin master
+
+#Git Create branch
+>git branch develop
+
+#Git Merge Command
+>git checkout develop
+>git merge master
+>git push origin develop
